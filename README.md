@@ -2,7 +2,7 @@
 
 # Table of contents
 
-1. [Day 1-Inception of open-source EDA,Openlane and Sky130 PDK](#Day-1)
+1. [Day 1-Inception of open-source EDA,Openlane and Sky130 PDK](#day-1)
 1. [Day 2-Good floorplan vs bad floorplan and introduction to library cells](#day-2)
 1. [Day 3-Design library cell using magic layout and ngspice charecterization](#day-3)
 1. [Day 4-Pre-layout timing analysis and importance of good clock rate](#day-4)
@@ -35,8 +35,23 @@
 **Viewing the Placement**
 ![day-2-5](https://github.com/SR-Rishab/pes_openlane/assets/107171044/0c169701-4c5e-4014-b420-2defccce4033)
 # Day 3
+## Inception of Layout and CMOS Fabrication Process
+**Sky130 Basic Layers Layout and LEF using Inverter**
+![day-3-1](https://github.com/SR-Rishab/pes_openlane/assets/107171044/77208b1b-0dce-4ddc-a520-31a25bc908bb)
+
+![day-3-2](https://github.com/SR-Rishab/pes_openlane/assets/107171044/dbad9f51-2895-4d0f-8603-42cc6d6b238f)
+
+
+
+
+
+
+
+**Create Final SPICE Deck**
 
 ![day-3-3](https://github.com/SR-Rishab/pes_openlane/assets/107171044/b33d9f2e-b573-4c5c-9126-00f722ac4ebc)
+
+**Characterize Inverter using Sky130 Models**
 
 ![day-3-4](https://github.com/SR-Rishab/pes_openlane/assets/107171044/3cf3a53c-9656-48ba-a526-b962207fcac2)
 
@@ -45,7 +60,7 @@
 ![day-3-8](https://github.com/SR-Rishab/pes_openlane/assets/107171044/75d72fe5-4d03-448d-9be7-db1c4977127e)
 
 ![day-3-9](https://github.com/SR-Rishab/pes_openlane/assets/107171044/4aa191c2-11e3-483f-a8cc-8c6715c82252)
-
+**Fixing DRC Errors**
 ![day-3-10](https://github.com/SR-Rishab/pes_openlane/assets/107171044/c782a0fb-2ea0-428f-8be8-04a997fd322b)
 
 ![day-3-11](https://github.com/SR-Rishab/pes_openlane/assets/107171044/27364f2c-c65a-4b5e-9660-5ed25ecde8cf)
@@ -56,18 +71,6 @@
 
 ![day-3-14](https://github.com/SR-Rishab/pes_openlane/assets/107171044/6853ba4b-2953-46d4-b7e7-6a845b3dc571)
 
-## Inception of Layout and CMOS Fabrication Process
-**Sky130 Basic Layers Layout and LEF using Inverter**
-
-![day-3-1](https://github.com/SR-Rishab/pes_openlane/assets/107171044/77208b1b-0dce-4ddc-a520-31a25bc908bb)
-
-![day-3-2](https://github.com/SR-Rishab/pes_openlane/assets/107171044/dbad9f51-2895-4d0f-8603-42cc6d6b238f)
-
-**Create Final SPICE Deck**
-**Characterize Inverter using Sky130 Models**
-**Sky130 PDKS and Steps to Download Magic Tool**
-**Fixing DRC Errors**
-**DRC Error as Geometrical Construct**
 # Day 4
 ![day-4-1](https://github.com/SR-Rishab/pes_openlane/assets/107171044/88edb039-70dd-4cac-b8d8-2de9910ea677)
 
