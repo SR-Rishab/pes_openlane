@@ -34,18 +34,15 @@
 
 **Viewing the Placement**
 ![day-2-5](https://github.com/SR-Rishab/pes_openlane/assets/107171044/0c169701-4c5e-4014-b420-2defccce4033)
+
 # Day 3
 ## Inception of Layout and CMOS Fabrication Process
+
 **Sky130 Basic Layers Layout and LEF using Inverter**
+
 ![day-3-1](https://github.com/SR-Rishab/pes_openlane/assets/107171044/77208b1b-0dce-4ddc-a520-31a25bc908bb)
 
 ![day-3-2](https://github.com/SR-Rishab/pes_openlane/assets/107171044/dbad9f51-2895-4d0f-8603-42cc6d6b238f)
-
-
-
-
-
-
 
 **Create Final SPICE Deck**
 
@@ -72,6 +69,9 @@
 ![day-3-14](https://github.com/SR-Rishab/pes_openlane/assets/107171044/6853ba4b-2953-46d4-b7e7-6a845b3dc571)
 
 # Day 4
+
+## Timing Modelling using Delay Tables
+
 ![day-4-1](https://github.com/SR-Rishab/pes_openlane/assets/107171044/88edb039-70dd-4cac-b8d8-2de9910ea677)
 
 ![day-4-2](https://github.com/SR-Rishab/pes_openlane/assets/107171044/7aba116b-2eda-4133-abbb-f2122525bc97)
@@ -90,6 +90,9 @@
 
 ![day-4-9](https://github.com/SR-Rishab/pes_openlane/assets/107171044/01965819-f0be-4b98-99fe-b6704ff8cf8f)
 
+**Convert Magic Layout to Standard Cell LEF**
+## Timing Analysis with Ideal Clocks using OpenSTA
+
 ![day-4-10](https://github.com/SR-Rishab/pes_openlane/assets/107171044/8bb87d0b-41bc-485c-94cd-01ae535bd6eb)
 
 ![day-4-11](https://github.com/SR-Rishab/pes_openlane/assets/107171044/71ff075f-7c6f-4ed5-9dba-8d92766d5ff4)
@@ -99,15 +102,5 @@
 ![day-4-13](https://github.com/SR-Rishab/pes_openlane/assets/107171044/b5871c32-641e-4bdc-9a1c-b9ce065da1c8)
 
 ![day-4-14](https://github.com/SR-Rishab/pes_openlane/assets/107171044/c559911a-1569-4689-9848-6c87a7b36125)
-
-## Timing Modelling using Delay Tables
-**Convert Grid Info to Track Info**
-**Convert Magic Layout to Standard Cell LEF**
-## Timing Analysis with Ideal Clocks using OpenSTA
-**Configure OpenSTA for Post-Synth Timing Analysis**
-**Run CTS**
-**Timing Analysis with Real CLocks using OpenSTA**
 # Day 5
 ## Power Distribution Network and Routing
-**Build Power Distribution Network**
-**SPEF Extraction**
