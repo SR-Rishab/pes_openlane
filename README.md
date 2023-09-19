@@ -99,9 +99,5 @@
 ![day-4-11](https://github.com/SR-Rishab/pes_openlane/assets/107171044/71ff075f-7c6f-4ed5-9dba-8d92766d5ff4)
 
 ![day-4-12](https://github.com/SR-Rishab/pes_openlane/assets/107171044/03225b59-28d1-4143-8f6f-a202c8cc0466)
-
-![day-4-13](https://github.com/SR-Rishab/pes_openlane/assets/107171044/b5871c32-641e-4bdc-9a1c-b9ce065da1c8)
-
-![day-4-14](https://github.com/SR-Rishab/pes_openlane/assets/107171044/c559911a-1569-4689-9848-6c87a7b36125)
 # Day 5
 ## Power Distribution Network and Routing
